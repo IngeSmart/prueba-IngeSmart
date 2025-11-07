@@ -11,7 +11,6 @@ assignees: ''
 name: "Plantilla Tarea"
 about: "Crea una nueva tarea relacionada con el proyecto IngeSmart S.A.S."
 title: "[TAREA] - "
-labels: ["tarea", "pendiente"]
 assignees: ""
 ---
 
@@ -33,7 +32,7 @@ Marcar los ítems una vez completados.
 - [ ] Código revisado y aprobado por otro miembro del equipo.  
 - [ ] Validación funcional exitosa (QA o revisión manual).  
 - [ ] Cumple con tiempos de respuesta ≤ 3 segundos (si aplica).  
-- [ ] Compatible con la arquitectura **Target** definida.
+
 
 ---
 
@@ -62,7 +61,7 @@ Una tarea está **finalizada** cuando:
 
 ## Información Adicional
 > Enlaces, documentos o dependencias relevantes.  
-> Ejemplo: [Documento de Arquitectura Empresarial - Fase C](https://drive.google.com/...)
+
 
 ---
 
